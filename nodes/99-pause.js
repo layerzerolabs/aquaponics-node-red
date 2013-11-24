@@ -1,3 +1,6 @@
+/* Author: Ben Hardill http://www.hardill.me.uk/wordpress/2013/09/07/node-red-pause-node/ */
+
+
 // Simple node to introduce a pause into a flow
  
 //Require main module
